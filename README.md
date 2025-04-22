@@ -1,4 +1,32 @@
+# All-in-One Flutter Payment Gateway Integration
+This Flutter project showcases a fully-featured integration of multiple payment methods, giving developers the flexibility to support local and international transactions effortlessly.
 
-# Flutter Multi-Payment Gateway Integration
+# Supported Payment Methods:
 
-A versatile Flutter project integrating Stripe, PayPal, and Paymob for diverse payment options. Features include Stripe Payment Sheet for native UX, PayPal via direct API and flutter_paypal package, and Paymob for card and wallet payments (Vodafone Cash, etc.) using direct APIs and packages. Paymob's iFrame-based checkout is displayed via webview_flutter, with robust Sandbox testing, user transaction tracking, and error handling. Perfect for developers building flexible payment solutions.
+✅ Pay with Stripe Payment Sheet
+
+✅ Pay with PayPal (Direct API)
+
+✅ Pay with PayPal (flutter_paypal package)
+
+✅ Pay with Paymob Card (Direct API)
+
+✅ Pay with Paymob Wallet (Vodafone Cash, etc.) – Direct API
+
+✅ Pay with Paymob Card (Flutter Package)
+
+✅ Pay with Paymob Wallet (Flutter Package)
+
+# Features:
+
+Seamless integration with UI/UX optimized payment flows
+
+WebView-based Paymob checkout (iFrame)
+
+Sandbox environments for safe testing
+
+Error handling and logging
+
+Modular code structure for easy adoption
+
+Perfect for developers looking to build flexible and region-aware payment solutions in Flutter.
